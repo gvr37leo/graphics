@@ -1,7 +1,7 @@
 {
-  "name": "typescripttemplate",
+  "name": "graphicsx",
   "version": "1.0.0",
-  "description": "",
+  "description": "graphics",
   "main": "package.js",
   "dependencies": {
     "utilsx": "*",
@@ -12,5 +12,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvr37leo/graphics.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/gvr37leo/graphics/issues"
+  },
+  "homepage": "https://github.com/gvr37leo/graphics#readme"
 }
