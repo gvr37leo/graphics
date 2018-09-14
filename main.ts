@@ -10,4 +10,3 @@ var gfx = new Graphics(ctxt)
 gfx.load()
 gfx.putPixel(100,100,[255,0,0,255])
 gfx.flush()
-https://github.com/gvr37leo/graphics.git
